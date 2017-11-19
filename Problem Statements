@@ -1,0 +1,32 @@
+# Problem Statement
+Any Bussiness entity has several entity that can compromised which affects them directly or indirectly.
+Direct effect is when its infratructure or product gets compromised. 
+Indirect effect is when the tools/service, software or third party products gets compromised
+Direct attack on infrastructure causes huge impact due to data breach, Trade secret, finacial loss, etc.
+Direct attack on products affects the revenue, market, etc.
+Usually, Bussiness Infrastructure is monitored by the company and any breach
+in the infrastructure should be identified by the company itself.
+The vulnerabilty or compromise of any proucts either identified by the internal security testing team or
+open source security researchers independent of the company. Though, most of the researchers are expected to 
+report it to the parent organization many times the bugs are notified through social media like twitter.
+
+Indiect attack on company by exploiting the vulnerabilities of the tools, service, software, products from
+third parties can not be directly controlled by the bussiness and should be prepared to identify the vulnerability 
+and take nessary action to remediate or protect the infratructure from comprmising but miost of these information will 
+not be directly available to the company and security buletin, social media or news media will have the information. 
+for example badrabbit ransomeware was first notified via twitter
+
+Many companies have struggled a cyber security breach by exploiting the vulnerabilities in the third party tools. for example equifax fail to update the apache struts vulnerability and this was exploited in data breach
+
+So, Monitoring social media for to identify the potential indirect threats to the infrastructure due to third party system is important.
+
+so following priority should be considered when monitoring SM for the thrats
+
+priority 1: since third party tools like software, hardware products security vulnerabilty and threats are beyond the control on the individual company and does not get direct update on thesese vulnerability relaying and these information are published in SM
+it takes the first priority
+priority 2: Direct attack on Proucts, since there company products are used widely by consumers and some of these independent researchers are like to annouce the vulnerabilty in SM. it takes second priority
+priority 3: The direct attack on company itself will take priority 3 as most of the vulnerability is monitored internally
+
+use case to conduct threat hunting in SM
+
+Consider 
