@@ -1,4 +1,4 @@
-# Social Media threat intel
+# Social Media Threat Intel
 
 # Problem statement
 Any Bussiness has several IT components that can be compromised directly or indirectly.
