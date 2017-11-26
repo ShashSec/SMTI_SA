@@ -26,13 +26,6 @@ Many companies have struggled a cyber security breach by exploiting the vulnerab
 for example equifax fail to update the apache struts vulnerability and this was exploited in data breach
 So, Social media is best source of threat intelligence for indirect threats to the infrastructure.
 
-# Following priority should be considered when developing Social media threat Intel:
-
-Priority 0: Wide spread malware campaign like ransomeware, spyware, virus that creates trend or movement in Social media
-priority 1: since third party tools like software, hardware product's security vulnerabilty and threats are beyond the control on the individual company and does not get direct update on thesese vulnerability relaying and these information are published in SM
-it takes the first priority
-priority 2: Direct attack on Proucts, since there company products are used widely by consumers and some of these independent researchers are like to annouce the vulnerabilty in SM. it takes second priority
-priority 3: The direct attack on company itself will take priority 3 as most of the vulnerability is monitored internally
 
 # Social Media Threat Intel priority model:
 
