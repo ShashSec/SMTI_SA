@@ -9,3 +9,6 @@
 * Weakly Supervised Extraction of Computer Security Events from Twitter: https://github.com/aritter/twitter_nlp
 * Weakly Supervised Extraction of Computer Security Events from Twitter live system: http://kb1.cse.ohio-state.edu:8123/events/hacked
 * Machine learning in Cyber security NormShield: https://www.normshield.com/category/uncategorized/
+* Malware based cyber ontologies MITRE presentation: https://pdfs.semanticscholar.org/860d/3d4114711fa4ce9a5a4ccf362b80281cc981.pdf
+* Malware based cyber ontologies MITRE paper: http://ceur-ws.org/Vol-966/STIDS2012_T06_ObrstEtAl_CyberOntology.pdf
+* List of Cyber security Dataset, Paper and talks: https://github.com/jivoi/awesome-ml-for-cybersecurity, https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security
