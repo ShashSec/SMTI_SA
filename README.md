@@ -13,3 +13,4 @@
 * Malware based cyber ontologies MITRE paper: http://ceur-ws.org/Vol-966/STIDS2012_T06_ObrstEtAl_CyberOntology.pdf
 * List of Cyber security Dataset, Paper and talks: https://github.com/jivoi/awesome-ml-for-cybersecurity, https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security
 * CVE twitter : https://twitter.com/CVEnew/
+* CVE Downloads: https://cve.mitre.org/data/downloads/index.html
