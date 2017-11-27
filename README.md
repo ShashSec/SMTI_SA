@@ -8,3 +8,4 @@
 * Cyber & Information Security Research Group, Oak Ridge National Laboratory repository: https://github.com/stucco/docs
 * Weakly Supervised Extraction of Computer Security Events from Twitter: https://github.com/aritter/twitter_nlp
 * Weakly Supervised Extraction of Computer Security Events from Twitter live system: http://kb1.cse.ohio-state.edu:8123/events/hacked
+* Machine learning in Cyber security NormShield: https://www.normshield.com/category/uncategorized/
