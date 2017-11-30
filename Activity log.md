@@ -17,5 +17,6 @@
 * Action items 
     * 1. Use the entity extraction corpus to train wordtoVEc and then use LSM classifier
     * 2. Collect large corpus from CVE, NVD, Security bulletin and perform step 1
+    * 3. Twitter stram api to filter based on Entity and relationship model
     
                  
