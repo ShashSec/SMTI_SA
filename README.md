@@ -15,3 +15,4 @@
 * CVE twitter : https://twitter.com/CVEnew/
 * CVE Downloads: https://cve.mitre.org/data/downloads/index.html
 * NVD full list: https://nvd.nist.gov/vuln/full-listing
+* WOrdToVec google implementation: https://code.google.com/archive/p/word2vec/
