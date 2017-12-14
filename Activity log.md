@@ -25,7 +25,9 @@
 * The main objective of the project is to develop a platform to serve on demand threat intel request by leveraging AI
    * Analyst should be able to identify new problem or choose among the problem set.
       * If creates new problem set, He trains the model with minimal data
+      * develop a playbook (model to extract the relavent information)
    * Analyst will choose the platforms to search (data source)
-   * perform analysis
+   * Develop common aggregasion methodology
+   * Result
     
                  
