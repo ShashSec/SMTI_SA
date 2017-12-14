@@ -20,8 +20,8 @@
     * 3. Twitter stram api to filter based on Entity and relationship model
 
 # Dec 13 2017
-* social media hunting should not be limited to twitter and the information extraction should not be limited Vulnerability and patch management. Having said that, the system should have multiple problem set addressing the issues and multiple platforms addressing various data source (data set)
-* These problem set and platform should be an individual blocks should work independly as well as together. any problem new problem set can be introduced or removed with mininmal effort and knowledge by security analyst.
+* Social media hunting should not be limited to twitter and the information extraction should not be limited Vulnerability and patch management. Having said that, the system should have multiple problem set addressing the various issues and multiple platforms addressing various data source (data set)
+* These problem set and platform should be an individual blocks should work independly as well as together. Any problem new problem set can be introduced or removed with mininmal effort and knowledge by security analyst.
 * The main objective of the project is to develop a platform to serve on demand threat intel request by leveraging AI
    * Analyst should be able to identify new problem or choose among the problem set.
       * If creates new problem set, He trains the model with minimal data
