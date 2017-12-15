@@ -29,5 +29,7 @@
    * Analyst will choose the platforms to search (data source)
    * Develop common aggregasion methodology
    * Result
-    
+
+# Dec 14 2017
+* Some of the system provide this feature are silobreaker, zerofox, wapack labs
                  
