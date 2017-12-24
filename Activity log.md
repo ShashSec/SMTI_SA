@@ -32,4 +32,8 @@
 
 # Dec 14 2017
 * Some of the system provide this feature are silobreaker, zerofox, wapack labs
+
+# Dec 17 2017
+* LSTM tagging, POS tagging, Sequence of word and identifies the noun word.
+* bidirectional LSTM, tag the sentence
                  
