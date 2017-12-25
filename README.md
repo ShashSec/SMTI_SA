@@ -1,5 +1,5 @@
 
-# References
+# Resource
 * Automatic Labeling for Entity Extraction in Cyber Security: https://arxiv.org/pdf/1308.4941.pdf
 * Auto-labeled-corpus: https://github.com/stucco/auto-labeled-corpus
 * entity-extractor in Java: https://github.com/stucco/entity-extractor
@@ -17,3 +17,5 @@
 * NVD full list: https://nvd.nist.gov/vuln/full-listing
 * WOrdToVec google implementation: https://code.google.com/archive/p/word2vec/
 * wordtoVec demo : https://www.youtube.com/watch?v=pY9EwZ02sXU, https://github.com/YuriyGuts/thrones2vec, https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE
+* RNN deep learning algorithm introduction using python : https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
+* Word embeding algorithm Introduction: https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
