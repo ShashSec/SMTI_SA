@@ -20,3 +20,4 @@
 * RNN deep learning algorithm introduction using python : https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
 * Word embeding algorithm Introduction: https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 * API for pretrained NLP dataset like twitter: https://github.com/RaRe-Technologies/gensim-data, https://rare-technologies.com/new-api-for-pretrained-nlp-models-and-datasets-in-gensim/
+* Facets Dive Data visulization tool demo: https://rare-technologies.com/interactive-confusion-matrix-python/
