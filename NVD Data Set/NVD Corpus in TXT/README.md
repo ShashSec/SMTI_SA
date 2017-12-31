@@ -1,1 +1,1 @@
-NVD corpus in text format from 2017 to 2002
+NVD corpus description in text format from 2002 to 2017 (contains only description)
