@@ -21,3 +21,7 @@
 * Word embeding algorithm Introduction: https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 * API for pretrained NLP dataset like twitter: https://github.com/RaRe-Technologies/gensim-data, https://rare-technologies.com/new-api-for-pretrained-nlp-models-and-datasets-in-gensim/
 * Facets Dive Data visulization tool demo: https://rare-technologies.com/interactive-confusion-matrix-python/
+* security dataset : https://github.com/hgascon/security-datasets, http://www.secrepo.com, 
+* LSTM github Project: https://github.com/Hironsan/anago
+* BLSTM paper: https://arxiv.org/pdf/1510.06168.pdf
+* LSTM blog: http://colah.github.io/posts/2015-08-Understanding-LSTMs/, https://deeplearning4j.org/lstm.html
