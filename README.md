@@ -25,3 +25,6 @@
 * LSTM github Project: https://github.com/Hironsan/anago
 * BLSTM paper: https://arxiv.org/pdf/1510.06168.pdf
 * LSTM blog: http://colah.github.io/posts/2015-08-Understanding-LSTMs/, https://deeplearning4j.org/lstm.html
+* Html Content / Article Extractor, web scrapping lib in Python : https://github.com/grangier/python-goose
+* Databreach website: https://www.databreaches.net
+* OWASP web hacking incident database: https://fusiontables.google.com/DataSource?snapid=S283929Jw2s
