@@ -29,3 +29,4 @@
 * Databreach website: https://www.databreaches.net
 * OWASP web hacking incident database: https://fusiontables.google.com/DataSource?snapid=S283929Jw2s
 * CEH material : http://repo.thehackademy.net/depot_cehv6/
+* To fetch the old tweets: https://github.com/Jefferson-Henrique/GetOldTweets-python
