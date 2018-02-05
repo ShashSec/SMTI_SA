@@ -37,3 +37,39 @@
 * LSTM tagging, POS tagging, Sequence of word and identifies the noun word.
 * bidirectional LSTM, tag the sentence
                  
+# Dec 30 2017
+* Completed extracting NVD data set and uplaoded to github
+* since data is only 25 mb, alternate data is in search
+
+# Jan 3 2017
+* Security text book is a good source of data- identified because credible and security related text
+* Found 867 MB (45 e-books) in PDF format. Need to find pdf to text convertor.
+* Slate and Pdfminer can be used
+
+# Jan 7 2017
+* Studied SVN from Math of intelligence and MIT. should continue
+
+# Jan 19 2017
+* started working on Slate and Pdf miner to extract data from PDF but unable to install package on windows
+
+# Jan 28 2017
+* using textextract and pdfPy2 was able to convert PDF to text
+* converting individual pdf as initial and last few pages needs to be removed
+
+# Feb 3 2017 
+* Converted all 45 e-books and 867 MB reduced to 26 MB of text file
+* Only 50MB so far combining e-books and NVD corpus
+* Few oter books downloaded from internet and conveted
+* new plan use research paper as it will only contain text most of the cases and need not to cut any pages
+* started collecting research paper
+* started twitter stream program to collect tweets
+
+# Feb 4 2017
+* 11 MB tweets were collected and anlayzed and modified the code to stream line the tweets
+* new streaming program is written to filter based on user
+* Top security users, Company and Blogs twiiter account was found and used in program
+* Program to filter tweets based on user is not feteching any result - Might be some issue!!
+* uploaded the data and program in Github under TwitterStream_Python
+* Next, Need to collect more research paper
+* run pdftoText program to extract text
+* Normalizing twitter streaming code
