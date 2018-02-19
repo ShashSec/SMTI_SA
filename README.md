@@ -31,3 +31,4 @@
 * CEH material : http://repo.thehackademy.net/depot_cehv6/
 * To fetch the old tweets: https://github.com/Jefferson-Henrique/GetOldTweets-python
 * Security Research papers to download for security data: https://arxiv.org/list/cs/pastweek?show=627
+* Web Scrapping using Scrapy: https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673
