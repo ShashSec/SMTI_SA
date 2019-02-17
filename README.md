@@ -33,3 +33,4 @@
 * Security Research papers to download for security data: https://arxiv.org/list/cs/pastweek?show=627
 * Web Scrapping using Scrapy: https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673
 * List of Security Knowledge source( Article blogs): https://stucco.github.io/data/
+* Microsoft Article Dataset: https://docs.microsoft.com/en-us/windows/windows-10/
